@@ -5,3 +5,4 @@ Consider Type Annotations as Traffic Lights : You can consider to obey traffic l
 name:str="Feroz Ahmad"
 age: int="Thirty Six Thousand"
 print(name,age)
+print(name+age)
